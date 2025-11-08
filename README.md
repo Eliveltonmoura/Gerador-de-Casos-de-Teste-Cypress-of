@@ -3,7 +3,6 @@ add# 🧪 Gerador de Casos de Teste Cypress
 Uma ferramenta web intuitiva e moderna para criar casos de teste automatizados com Cypress de forma rápida e organizada.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ## 📋 Índice
 
@@ -150,14 +149,13 @@ cy.get('h1').should('contain', 'Bem-vindo')
 
 ## 📁 Estrutura do Projeto
 
-```
 cypress-test-generator/
-│
-├── index.html          # Estrutura HTML principal
-├── styles.css          # Estilos e design
-├── script.js           # Lógica e funcionalidades
-└── README.md           # Documentação
-```
+├── index.html
+├── styles.css
+├── script.js
+├── README.md
+└── screenshots/
+    ├── main-interface.png
 
 ### Arquivos Principais
 
@@ -234,13 +232,15 @@ Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melho
 - 🌐 Suporte para múltiplos idiomas
 - 📊 Estatísticas de testes criados
 
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## 👨‍💻 Autor
 
 Desenvolvido com ❤️ para a comunidade de QA e desenvolvedores
+
+**Fotos**
+
+![Interface Principal
+](screenshots/main-interface.png)
 
 ## 🔗 Links Úteis
 
