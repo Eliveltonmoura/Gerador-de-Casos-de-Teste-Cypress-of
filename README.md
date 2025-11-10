@@ -4,6 +4,8 @@ Uma ferramenta web intuitiva e moderna para criar casos de teste automatizados c
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
+ 
+
 ## 📋 Índice
 
 - [Sobre o Projeto](#sobre-o-projeto)
@@ -234,6 +236,7 @@ Contribuições são sempre bem-vindas! Se você tem alguma sugestão para melho
 
 
 ## 👨‍💻 Autor
+# Dev Elivelton Moura
 
 Desenvolvido com ❤️ para a comunidade de QA e desenvolvedores
 
